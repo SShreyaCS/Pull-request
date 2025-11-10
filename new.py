@@ -1,2 +1,1 @@
-print("line2, Mysore")
-print("line 1,vvce,cse,new changes")
+print("vvce mysore")
